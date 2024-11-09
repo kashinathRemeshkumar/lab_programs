@@ -3,7 +3,7 @@
 This repository contains the code and resources for the AI and ML lab course under the syllabus of **KTU University, Semester 5**.
 
 ## Table of Contents
-- [AI LAB](programsAI/)
+- [AI LAB](programs/AI/)
 - [ML LAB](programs/ML/)
 
 
