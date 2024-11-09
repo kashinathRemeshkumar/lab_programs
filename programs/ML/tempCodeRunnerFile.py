@@ -1,1 +1,0 @@
- feature_names=iris.feature_names, class_names=iris.target_names,
